@@ -6,8 +6,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Lesotho IEC e-Vote',
-  description: 'Lesotho IEC e-Vote dashboard',
+  title: 'Starter kit',
+  description: 'Starter kit',
 };
 
 export default function RootLayout({
